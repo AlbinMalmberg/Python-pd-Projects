@@ -1,2 +1,2 @@
 # Python/Panda Cases
-Case studies and smaller projects
+Case studies and smaller projects!
